@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="Main Grievance" max_length="40" name="x_340016_main_grie_main_grievance" type="collection">
+        <element label="Applied on" max_length="40" name="applied_on" type="glide_date_time"/>
+        <element label="Complaint" max_length="500" name="complaint" type="string"/>
+        <element label="Mail id" max_length="50" name="mail_id" type="string"/>
+        <element attributes="ignore_filter_on_new=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
+        <element label="Proof" max_length="40" name="proof" type="user_image"/>
+        <element label="Remarks" max_length="50" name="remarks" type="string"/>
+        <element choice="1" label="Status" max_length="4" name="status" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Closed" value="closed"/>
+                <element inactive_on_update="false" label="Open" value="open"/>
+                <element inactive_on_update="false" label="Pending" value="pending"/>
+                <element inactive_on_update="false" label="Progressing" value="progressing"/>
+            </choice>
+        </element>
+    </element>
+</database>

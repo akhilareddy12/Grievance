@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ui_module">
+    <sys_ui_module action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <application display_value="Main Grievance">81652fba1b42330028a021b6bc4bcb4c</application>
+        <filter/>
+        <name>Main Grievances</name>
+        <order/>
+        <path/>
+        <path_relative_to_root>false</path_relative_to_root>
+        <roles>x_340016_main_grie.main_grievance_user</roles>
+        <sys_class_name>sys_ui_module</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-06-19 06:38:24</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>cd652fba1b42330028a021b6bc4bcb4d</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Main Grievances</sys_name>
+        <sys_package display_value="Main Grievance" source="x_340016_main_grie">9a746f7a1b42330028a021b6bc4bcb9e</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Main Grievance">9a746f7a1b42330028a021b6bc4bcb9e</sys_scope>
+        <sys_update_name>sys_ui_module_cd652fba1b42330028a021b6bc4bcb4d</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-06-19 06:38:24</sys_updated_on>
+        <table>x_340016_main_grie_main_grievance</table>
+        <uncancelable>false</uncancelable>
+        <view_name/>
+    </sys_ui_module>
+</record_update>

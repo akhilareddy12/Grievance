@@ -1,0 +1,197 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_section caption="" section_id="335a1c4f1bc2330028a021b6bc4bcbfc" sys_domain="global" table="x_340016_main_grie_main_grievance" version="3" view="Setting">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.split</element>
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-06-19 10:29:52</sys_created_on>
+            <sys_id>7f5a1c4f1bc2330028a021b6bc4bcbff</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_340016_main_grie_main_grievance" sys_domain="global" view="6d2088cb1b82330028a021b6bc4bcb27">335a1c4f1bc2330028a021b6bc4bcbfc</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-06-19 10:29:52</sys_updated_on>
+            <sys_user/>
+            <type>.split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>mail_id</element>
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-06-19 10:29:52</sys_created_on>
+            <sys_id>f35a5c4f1bc2330028a021b6bc4bcb00</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_340016_main_grie_main_grievance" sys_domain="global" view="6d2088cb1b82330028a021b6bc4bcb27">335a1c4f1bc2330028a021b6bc4bcbfc</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-06-19 10:29:52</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.end_split</element>
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-06-19 10:29:52</sys_created_on>
+            <sys_id>775a5c4f1bc2330028a021b6bc4bcb00</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_340016_main_grie_main_grievance" sys_domain="global" view="6d2088cb1b82330028a021b6bc4bcb27">335a1c4f1bc2330028a021b6bc4bcbfc</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-06-19 10:29:52</sys_updated_on>
+            <sys_user/>
+            <type>.end_split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>complaint</element>
+            <position>3</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-06-19 10:29:52</sys_created_on>
+            <sys_id>f75a5c4f1bc2330028a021b6bc4bcb00</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_340016_main_grie_main_grievance" sys_domain="global" view="6d2088cb1b82330028a021b6bc4bcb27">335a1c4f1bc2330028a021b6bc4bcbfc</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-06-19 10:29:52</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.begin_split</element>
+            <position>4</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-06-19 10:29:52</sys_created_on>
+            <sys_id>7b5a5c4f1bc2330028a021b6bc4bcb00</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_340016_main_grie_main_grievance" sys_domain="global" view="6d2088cb1b82330028a021b6bc4bcb27">335a1c4f1bc2330028a021b6bc4bcbfc</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-06-19 10:29:52</sys_updated_on>
+            <sys_user/>
+            <type>.begin_split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>applied_on</element>
+            <position>5</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-06-19 10:29:52</sys_created_on>
+            <sys_id>fb5a5c4f1bc2330028a021b6bc4bcb00</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_340016_main_grie_main_grievance" sys_domain="global" view="6d2088cb1b82330028a021b6bc4bcb27">335a1c4f1bc2330028a021b6bc4bcbfc</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-06-19 10:29:52</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>remarks</element>
+            <position>6</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-06-19 10:29:52</sys_created_on>
+            <sys_id>7f5a5c4f1bc2330028a021b6bc4bcb00</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_340016_main_grie_main_grievance" sys_domain="global" view="6d2088cb1b82330028a021b6bc4bcb27">335a1c4f1bc2330028a021b6bc4bcbfc</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-06-19 10:29:52</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.split</element>
+            <position>7</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-06-19 10:29:52</sys_created_on>
+            <sys_id>ff5a5c4f1bc2330028a021b6bc4bcb00</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_340016_main_grie_main_grievance" sys_domain="global" view="6d2088cb1b82330028a021b6bc4bcb27">335a1c4f1bc2330028a021b6bc4bcbfc</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-06-19 10:29:52</sys_updated_on>
+            <sys_user/>
+            <type>.split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>status</element>
+            <position>8</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-06-19 10:29:52</sys_created_on>
+            <sys_id>735a5c4f1bc2330028a021b6bc4bcb01</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_340016_main_grie_main_grievance" sys_domain="global" view="6d2088cb1b82330028a021b6bc4bcb27">335a1c4f1bc2330028a021b6bc4bcbfc</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-06-19 10:29:52</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>proof</element>
+            <position>9</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-06-19 10:29:52</sys_created_on>
+            <sys_id>f35a5c4f1bc2330028a021b6bc4bcb01</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_340016_main_grie_main_grievance" sys_domain="global" view="6d2088cb1b82330028a021b6bc4bcb27">335a1c4f1bc2330028a021b6bc4bcbfc</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-06-19 10:29:52</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.end_split</element>
+            <position>10</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-06-19 10:29:52</sys_created_on>
+            <sys_id>775a5c4f1bc2330028a021b6bc4bcb01</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_340016_main_grie_main_grievance" sys_domain="global" view="6d2088cb1b82330028a021b6bc4bcb27">335a1c4f1bc2330028a021b6bc4bcbfc</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-06-19 10:29:52</sys_updated_on>
+            <sys_user/>
+            <type>.end_split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>number</element>
+            <position>11</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-06-19 10:29:52</sys_created_on>
+            <sys_id>f75a5c4f1bc2330028a021b6bc4bcb01</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_340016_main_grie_main_grievance" sys_domain="global" view="6d2088cb1b82330028a021b6bc4bcb27">335a1c4f1bc2330028a021b6bc4bcbfc</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-06-19 10:29:52</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_section action="INSERT_OR_UPDATE">
+            <caption/>
+            <header>false</header>
+            <name>x_340016_main_grie_main_grievance</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-06-19 10:29:52</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>335a1c4f1bc2330028a021b6bc4bcbfc</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_340016_main_grie_main_grievance</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="Main Grievance" source="x_340016_main_grie">9a746f7a1b42330028a021b6bc4bcb9e</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Main Grievance">9a746f7a1b42330028a021b6bc4bcb9e</sys_scope>
+            <sys_update_name>sys_ui_section_335a1c4f1bc2330028a021b6bc4bcbfc</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-06-19 10:29:52</sys_updated_on>
+            <sys_user/>
+            <title>false</title>
+            <view display_value="Setting" name="Setting">6d2088cb1b82330028a021b6bc4bcb27</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+</record_update>
